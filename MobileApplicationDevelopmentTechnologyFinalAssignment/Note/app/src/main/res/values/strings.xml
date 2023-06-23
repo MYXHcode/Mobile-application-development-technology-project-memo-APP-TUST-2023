@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">便签</string>
+    <string name="add_content">添加笔记</string>
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="action_delete">删除</string>
+    <string name="action_share">分享</string>
+    <string name="action_add_alarm">提醒我</string>
+    <string name="action_text_size">文字大小</string>
+    <string name="action_box">更改分组</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!--    <string name="pref_reversesort_summary">Reverse the time order of current items</string>-->
+    <!--    <string name="pref_reversesort">Reverse Time Order</string>-->
+    <!--    <string name="pref_fabcolor_summary">Choose the color of ADD NOTE button</string>-->
+    <!--    <string name="pref_fabcolor">Customize ADD NOTE button</string>-->
+    <!--    <string name="pref_fabplancolor_summary">Choose the color of ADD PLAN button</string>-->
+    <!--    <string name="pref_fabplancolor">Customize ADD PLAN button</string>-->
+    <!--    <string name="pref_notetitle">Note Title Style</string>-->
+    <!--    <string name="pref_notetitle_summary">Set the first line of note as its title</string>-->
+    <string name="night_mode">夜间模式</string>
+    <string name="pref_night_summary">开/关夜间模式</string>
+</resources>
